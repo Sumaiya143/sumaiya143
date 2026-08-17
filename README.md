@@ -35,12 +35,12 @@ I'm **Sumaiya Binte Mizan**, a passionate **Data Engineer** focused on building 
 <tr>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumaiya143&theme=github_dark" width="100%" alt="GitHub statistics">
+<img src="./profile/stats.svg" width="100%" alt="GitHub statistics">
 
 </td>
 <td width="50%">
 
-<img src="https://streak-stats.demolab.com?user=Sumaiya143&theme=github-dark-blue&hide_border=true&border_radius=10" width="100%" alt="GitHub contribution streak">
+<img src="./profile/streak.svg" width="100%" alt="Total contributions, current streak and longest streak">
 
 </td>
 </tr>
@@ -50,12 +50,12 @@ I'm **Sumaiya Binte Mizan**, a passionate **Data Engineer** focused on building 
 <tr>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumaiya143&theme=github_dark" width="100%" alt="Top languages by repository">
+<img src="./profile/repos-per-language.svg" width="100%" alt="Top languages by repository">
 
 </td>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumaiya143&theme=github_dark" width="100%" alt="Top languages by commits">
+<img src="./profile/most-commit-language.svg" width="100%" alt="Top languages by commits">
 
 </td>
 </tr>
