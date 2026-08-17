@@ -14,6 +14,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # 1. Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Generate contribution snake
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,6 +27,7 @@ jobs:
             profile/github-contribution-grid-snake.svg
             profile/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # 3. Save generated SVGs to the repository
       - name: Commit generated files
         uses: EndBug/add-and-commit@v9
         with:
