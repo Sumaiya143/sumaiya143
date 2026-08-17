@@ -11,25 +11,31 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      # 1. Checkout the repository
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
-      # 2. Generate contribution snake
-      - name: Generate snake SVGs
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: sumaiya143
+          github_user_name: Sumaiya143
           outputs: |
-            profile/github-contribution-grid-snake.svg
-            profile/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Save generated SVGs to the repository
+      - name: Copy generated files
+        run: |
+          mkdir -p profile
+          cp dist/github-contribution-grid-snake.svg profile/
+          cp dist/github-contribution-grid-snake-dark.svg profile/
+
       - name: Commit generated files
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "chore: update contribution snake"
-          add: "profile/*.svg"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git commit -m "chore: update contribution snake" || exit 0
+          git push
