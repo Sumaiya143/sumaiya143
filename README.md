@@ -5,22 +5,9 @@
 ### Data Engineer · AI & LLM Integration · Full-Stack Developer · Cybersecurity Enthusiast
 
 <p>
-  <a href="https://github.com/Sumaiya143">
-    <img src="https://img.shields.io/badge/GitHub-Sumaiya143-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/sumaiya143/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://codeforces.com/profile/sumaiya100">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sumaiya143&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/Sumaiya143?style=for-the-badge&label=FOLLOWERS&color=blueviolet" alt="GitHub followers">
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Sumaiya143&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Decorative banner">
 
 </div>
 
@@ -28,54 +15,53 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <b>Data Engineer</b> · <b>AI & LLM Integration</b> · <b>Full-Stack Developer</b> · <b>Cybersecurity Enthusiast</b>
-</p>
+I'm **Sumaiya Binte Mizan**, a passionate **Data Engineer** focused on building practical, scalable and intelligent software systems.
 
-<p align="center">
-  I build practical, scalable and intelligent software systems — combining data, AI and modern web technologies to turn ideas into useful products.
-</p>
+- 🔭 Currently building **Nijer**
+- 🌱 Exploring **AI & LLM Integration**
+- 🤝 Collaborating on **Kajwala**
+- 🧠 Interested in **Data Engineering & Intelligent Applications**
+- 💻 Building and improving **Full-Stack Applications**
+- 🔐 Exploring **Cybersecurity**
+- 📚 Learning, experimenting and growing continuously
 
-<br>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%">
 
-### 🚀 What I'm Doing
-
-- 🔭 **Building:** Nijer
-- 🌱 **Learning:** AI & LLM Integration
-- 🤝 **Collaborating:** Kajwala
-- 🧠 **Exploring:** Data Engineering & Intelligent Applications
-- 💻 **Developing:** Full-Stack Applications
-- 🔐 **Exploring:** Cybersecurity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumaiya143&theme=github_dark" width="100%" alt="GitHub statistics">
 
 </td>
+<td width="50%">
 
-<td width="45%" valign="top">
-
-### 🎯 Current Focus
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Engineering-161B22?style=flat-square&logo=databricks&logoColor=white" alt="Data Engineering">
-  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-161B22?style=flat-square&logo=openai&logoColor=white" alt="AI and LLM">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack-161B22?style=flat-square&logo=stackshare&logoColor=white" alt="Full Stack">
-  <img src="https://img.shields.io/badge/Cybersecurity-161B22?style=flat-square&logo=hackthebox&logoColor=white" alt="Cybersecurity">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Real--World%20Projects-161B22?style=flat-square&logo=rocket&logoColor=white" alt="Real World Projects">
-</p>
+<img src="https://streak-stats.demolab.com?user=Sumaiya143&theme=github-dark-blue&hide_border=true&border_radius=10" width="100%" alt="GitHub contribution streak">
 
 </td>
 </tr>
 </table>
 
-> 💡 **My approach:** Learn continuously, experiment boldly, and build things that solve real problems.
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumaiya143&theme=github_dark" width="100%" alt="Top languages by repository">
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumaiya143&theme=github_dark" width="100%" alt="Top languages by commits">
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -92,13 +78,13 @@
 ### 🤖 AI · Data · Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,django,nodejs,express,nestjs&perline=8" alt="AI data and backend technologies">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,django,nodejs,express,nestjs&perline=8" alt="AI, data and backend technologies">
 </p>
 
 ### 🗄️ Databases · Cloud · DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,docker,kubernetes,linux&perline=8" alt="Databases cloud and DevOps technologies">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,docker,kubernetes,linux&perline=8" alt="Databases, cloud and DevOps technologies">
 </p>
 
 ### 🎨 Frontend
@@ -115,7 +101,6 @@
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🏠 Nijer
@@ -143,11 +128,9 @@ An AI-focused project exploring intelligent application development.
 </a>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🤝 Kajwala
@@ -173,25 +156,8 @@ Explore my repositories for experiments, learning projects and development work.
 </a>
 
 </td>
-
 </tr>
 </table>
-
----
-
-## 🎯 What I'm Working On
-
-<div align="center">
-
-| Area | Focus |
-|:---|:---|
-| 🔭 **Building** | **Nijer** |
-| 🌱 **Learning** | **AI & LLM Integration** |
-| 🤝 **Collaborating** | **Kajwala** |
-| 🧠 **Exploring** | **Data Engineering & Intelligent Applications** |
-| 💻 **Improving** | **Full-Stack Development** |
-
-</div>
 
 ---
 
@@ -228,27 +194,17 @@ Explore my repositories for experiments, learning projects and development work.
 <div align="center">
 
 <a href="https://github.com/Sumaiya143">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/sumaiya143/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="https://codeforces.com/profile/sumaiya100">
-  <img src="https://img.shields.io/badge/Codeforces-Follow-1F8ACB?style=for-the-badge&logo=codeforces" alt="Follow on Codeforces">
+  <img src="https://img.shields.io/badge/Codeforces-Follow-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces">
 </a>
 
 <br><br>
 
 **Build · Learn · Experiment · Grow 🚀**
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Decorative footer">
 
 </div>
