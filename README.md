@@ -1,27 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm **Sumaiya Binte Mizan**
+# 👋 Hi, I'm Sumaiya Binte Mizan
 
-### `Data Engineer` • `AI & LLM Integration` • `Full-Stack Developer` • `Cybersecurity Enthusiast`
-
-<p>
-  <a href="https://github.com/Sumaiya143">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/sumaiya143">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://codeforces.com/profile/sumaiya100">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-  </a>
-  <a href="mailto:sumaiyabintemizan147@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+### Data Engineer • AI & LLM Integration • Full-Stack Developer • Cybersecurity Enthusiast
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sumaiya143&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views">
+  <a href="https://github.com/Sumaiya143"><img src="https://img.shields.io/badge/GitHub-Sumaiya143-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/sumaiya143/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://codeforces.com/profile/sumaiya100"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces"></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Sumaiya143&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
@@ -29,67 +18,114 @@
 
 ## 🧭 About Me
 
-I'm a passionate **Data Engineer** from Bangladesh who enjoys building practical software, working with data, and exploring the intersection of **AI, LLMs, automation, and cybersecurity**.
+<table>
+<tr>
+<td width="58%">
 
-- 🔭 Currently working on **[Nijer](https://github.com/Sumaiya143/Nijer)**
-- 🌱 Currently learning **Content Creation, AI & LLM Integration**
-- 🤝 Looking to collaborate on **[Kajwala](https://github.com/Rakib-ul/Kajwala)**
-- 🧠 Exploring **full-stack development, intelligent systems & automation**
-- 💬 Ask me about **Advanced Full-Stack Development**
-- 📫 **sumaiyabintemizan147@gmail.com**
+I'm **Sumaiya Binte Mizan**, a passionate **Data Engineer** interested in building practical, scalable and intelligent software systems.
 
----
+- 🔭 Currently building **Nijer**
+- 🌱 Exploring **AI & LLM Integration**
+- 🤝 Collaborating on **Kajwala**
+- 🧠 Interested in **Data Engineering & Intelligent Applications**
+- 💻 Enjoy building **full-stack projects**
+- 🔐 Exploring **Cybersecurity**
+- 📚 Always learning, experimenting and improving
 
-## ⚡ GitHub Analytics
+</td>
+<td width="42%">
 
-<p align="center">
-  <a href="https://github.com/Sumaiya143">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sumaiya143&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="Sumaiya's GitHub stats">
-  </a>
-  <a href="https://github.com/Sumaiya143">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya143&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages">
-  </a>
-</p>
+```text
+┌─────────────────────────┐
+│       CURRENT FOCUS     │
+├─────────────────────────┤
+│ 📊 Data Engineering     │
+│ 🤖 AI / LLM             │
+│ 💻 Full Stack           │
+│ 🔐 Cybersecurity        │
+│ 🚀 Building Projects    │
+└─────────────────────────┘
+```
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=sumaiya143&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub contribution streak">
-  </a>
-</p>
-
-> **Note:** GitHub's own contribution graph remains the source of truth for contribution activity. The cards above are complementary visual analytics.
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiya143&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Sumaiya's contribution graph">
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Analytics
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="profile/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sumaiya143&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" width="100%" alt="GitHub statistics">
+
+</td>
+<td width="50%">
+
+<img src="https://streak-stats.demolab.com?user=Sumaiya143&theme=github-dark-blue&hide_border=true&border_radius=10" width="100%" alt="GitHub contribution streak">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiya143&layout=compact&langs_count=8&hide_border=true&theme=github_dark" width="100%" alt="Top languages">
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumaiya143&theme=github_dark&utcOffset=6" width="100%" alt="Productive time">
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🌌 3D Contribution Calendar
+## 📈 Contribution Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
-    <img src="profile-3d-contrib/profile-green.svg" alt="3D GitHub contribution calendar">
-  </picture>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumaiya143&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution activity graph">
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php&perline=7" alt="Programming languages">
 </p>
+
+### 🤖 AI • Data • Backend
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,django,nodejs,express,nestjs&perline=8" alt="AI data backend technologies">
+</p>
+
+### 🗄️ Databases • Cloud • DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,docker,kubernetes,linux&perline=8" alt="Database cloud DevOps technologies">
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css&perline=7" alt="Frontend technologies">
+</p>
+
+</div>
 
 ---
 
@@ -99,20 +135,24 @@ I'm a passionate **Data Engineer** from Bangladesh who enjoys building practical
 <tr>
 <td width="50%">
 
-### 🏠 [Nijer](https://github.com/Sumaiya143/Nijer)
+### 🏠 Nijer
 
-A project I'm currently working on.
+A practical project focused on building a useful real-world application.
 
-**Focus:** Product development • Full-stack engineering
+**Focus:** Full-Stack Development
+
+<a href="https://github.com/Sumaiya143/Nijer"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"></a>
 
 </td>
 <td width="50%">
 
-### 💼 [Kajwala](https://github.com/Rakib-ul/Kajwala)
+### 🤖 AI Project
 
-A collaboration project I'm interested in contributing to.
+An AI-focused project exploring intelligent application development.
 
-**Focus:** Web application • Collaboration
+**Focus:** AI • LLM • Software Development
+
+<a href="https://github.com/Sumaiya143/AI-project"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"></a>
 
 </td>
 </tr>
@@ -120,20 +160,22 @@ A collaboration project I'm interested in contributing to.
 <tr>
 <td width="50%">
 
-### 🤖 [AI Project / Kinbo](https://github.com/Sumaiya143/AI-project)
+### 🤝 Kajwala
 
-An AI-focused project from my current development work.
+A collaborative project developed with a team.
 
-**Focus:** AI • Intelligent applications
+**Focus:** Collaboration • Full-Stack Development
+
+<a href="https://github.com/Rakib-ul/Kajwala"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"></a>
 
 </td>
 <td width="50%">
 
-### ⭐ More Projects
+### 🔎 More Projects
 
-Explore my repositories for additional experiments, applications, and learning projects.
+Explore my repositories to see experiments, learning projects and development work.
 
-**→ [View all repositories](https://github.com/Sumaiya143?tab=repositories)**
+<a href="https://github.com/Sumaiya143?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github"></a>
 
 </td>
 </tr>
@@ -141,72 +183,56 @@ Explore my repositories for additional experiments, applications, and learning p
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Currently
 
-### 👩‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php,html,css" alt="Languages">
-</p>
-
-### 🧠 Data, AI & ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and ML tools">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn">
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,nestjs,laravel,spring,react,nextjs,vue,redux,graphql" alt="Backend and frameworks">
-</p>
-
-### ☁️ Cloud, DevOps & Data Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux,git,redis,mongodb,mysql,postgres,grafana" alt="Cloud DevOps and databases">
-</p>
-
-### 🎨 Design, Testing & Other Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,jest,cypress,selenium,flutter,arduino,firebase" alt="Other tools">
-</p>
+<table>
+<tr><td>🔭 Building</td><td><b>Nijer</b></td></tr>
+<tr><td>🌱 Learning</td><td><b>AI & LLM Integration</b></td></tr>
+<tr><td>🤝 Collaborating</td><td><b>Kajwala</b></td></tr>
+<tr><td>🧠 Exploring</td><td><b>Data Engineering & Intelligent Applications</b></td></tr>
+<tr><td>💻 Improving</td><td><b>Full-Stack Development</b></td></tr>
+</table>
 
 ---
 
-## 🎯 What I'm Focused On
-
-```text
-Data Engineering       ███████████████████░░   Building reliable data systems
-AI & LLM Integration   ████████████████░░░░░   Exploring intelligent applications
-Full-Stack Development ██████████████████░░░   Building end-to-end products
-Cybersecurity          ████████████░░░░░░░░░   Learning secure engineering
-Content Creation       ██████████░░░░░░░░░░░   Sharing what I learn
-```
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sumaiya143">LinkedIn</a> •
-  <a href="https://fb.com/sumaiya.rahman.945589">Facebook</a> •
-  <a href="https://instagram.com/sunijhu.1">Instagram</a> •
-  <a href="https://www.youtube.com/c/english%20with%20sumaiya">YouTube</a> •
-  <a href="https://codeforces.com/profile/sumaiya100">Codeforces</a>
-</p>
-
----
+## 🐍 Contribution Snake
 
 <div align="center">
 
-### ✨ *Building, learning, experimenting — one commit at a time.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg">
+  <img src="./profile/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=100&section=footer" alt="Footer">
+</div>
+
+---
+
+## 🌌 3D Contribution Calendar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img src="./profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub contribution calendar">
+</picture>
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sumaiya143/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="https://codeforces.com/profile/sumaiya100"><img src="https://img.shields.io/badge/Codeforces-Follow-1F8ACB?style=for-the-badge&logo=codeforces"></a>
+<a href="https://github.com/Sumaiya143?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github"></a>
+
+<br><br>
+
+**Build • Learn • Experiment • Grow 🚀**
 
 </div>
