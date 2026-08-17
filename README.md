@@ -26,41 +26,56 @@
 
 ---
 
-## 🧭 About Me
+## 👨‍💻 About Me
+
+<p align="center">
+  <b>Data Engineer</b> · <b>AI & LLM Integration</b> · <b>Full-Stack Developer</b> · <b>Cybersecurity Enthusiast</b>
+</p>
+
+<p align="center">
+  I build practical, scalable and intelligent software systems — combining data, AI and modern web technologies to turn ideas into useful products.
+</p>
+
+<br>
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
-I'm **Sumaiya Binte Mizan**, a passionate **Data Engineer** focused on building practical, scalable and intelligent software systems.
+### 🚀 What I'm Doing
 
-- 🔭 Currently building **Nijer**
-- 🌱 Exploring **AI & LLM Integration**
-- 🤝 Collaborating on **Kajwala**
-- 🧠 Interested in **Data Engineering & Intelligent Applications**
-- 💻 Building and improving **full-stack projects**
-- 🔐 Exploring **Cybersecurity**
-- 📚 Learning, experimenting and growing continuously
+- 🔭 **Building:** Nijer
+- 🌱 **Learning:** AI & LLM Integration
+- 🤝 **Collaborating:** Kajwala
+- 🧠 **Exploring:** Data Engineering & Intelligent Applications
+- 💻 **Developing:** Full-Stack Applications
+- 🔐 **Exploring:** Cybersecurity
 
 </td>
 
-<td width="40%">
+<td width="45%" valign="top">
 
-```text
-╭──────────────────────────╮
-│      CURRENT FOCUS       │
-├──────────────────────────┤
-│ 📊 Data Engineering      │
-│ 🤖 AI / LLM              │
-│ 💻 Full Stack            │
-│ 🔐 Cybersecurity         │
-│ 🚀 Real-world Projects   │
-╰──────────────────────────╯
-```
+### 🎯 Current Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Engineering-161B22?style=flat-square&logo=databricks&logoColor=white" alt="Data Engineering">
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-161B22?style=flat-square&logo=openai&logoColor=white" alt="AI and LLM">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack-161B22?style=flat-square&logo=stackshare&logoColor=white" alt="Full Stack">
+  <img src="https://img.shields.io/badge/Cybersecurity-161B22?style=flat-square&logo=hackthebox&logoColor=white" alt="Cybersecurity">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Real--World%20Projects-161B22?style=flat-square&logo=rocket&logoColor=white" alt="Real World Projects">
+</p>
 
 </td>
 </tr>
 </table>
+
+> 💡 **My approach:** Learn continuously, experiment boldly, and build things that solve real problems.
 
 ---
 
